@@ -1,0 +1,12 @@
+.jadwal-booking{
+    background-color: none;
+    padding: 10px;
+    border-radius: 50px;
+}
+.jadwal-booking button{
+    margin: 15px;
+}
+
+.jadwal-booking h3{
+    font-size: 20px;
+}

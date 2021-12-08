@@ -1,0 +1,1 @@
+<img src="{{ asset('bola1.png') }}" alt="" width="300">

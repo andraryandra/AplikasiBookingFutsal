@@ -1,0 +1,9 @@
+.box-input{
+    background-color: rgb(248, 210, 198);
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: left;
+}
